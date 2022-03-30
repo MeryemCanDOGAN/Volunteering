@@ -11,13 +11,4 @@ namespace volunteer
         public int? SchoolId { get; set; }
         public int? Counts { get; set; }
  
-       // public ICollection<ListOfRequirements> ListOfRequirements { get; set; }
-    }
-/* public enum Sizes{
-
-     SixandEightYears=1,
-     EightandTenYears=2,
-     TenandTwelveYears=3,
-     TwelveandFourteen=4
- }*/
 }
